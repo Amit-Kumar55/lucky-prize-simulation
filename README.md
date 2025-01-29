@@ -12,8 +12,7 @@ Follow these steps to set up the project on your local machine.
 1. Clone the Repository
 First, clone the repository to your local machine:
 
-git clone https://github.com/your-repo/lucky-prize-simulation.git
-cd lucky-prize-simulation
+git clone -b master https://github.com/Amit-Kumar55/lucky-prize-simulation.git
 
 2. Install Dependencies
 Install the PHP dependencies using Composer:
